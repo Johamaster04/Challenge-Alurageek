@@ -1,0 +1,26 @@
+{
+    "producto": [{
+            "name": "Nintendo Nes",
+            "imageURL": "/img/consola7.png",
+            "price": "60.00",
+            "category": "Consolas",
+            "Description": "",
+            "id": "1"
+        },
+        {
+            "name": "Sega Genesis",
+            "imageURL": "/img/consola8.png",
+            "price": "60.00",
+            "category": "Otro",
+            "Description": "",
+            "id": "2"
+        }
+    ],
+    "usuario": [{
+            "mail": "Johamaster@gmail.com",
+            "name": "Johamaster",
+            "password": "12345678",
+            "id": "001"
+        }
+    ]
+}
